@@ -1,0 +1,17 @@
+{
+  "name": "@leon9726/data-table",
+  "version": "0.0.5",
+  "peerDependencies": {
+    "@angular/common": "^12.1.0",
+    "@angular/core": "^12.1.0",
+    "bootstrap": "^4.3.1",
+    "ng2-dragula": "^2.1.1"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  },
+  "repository": { 
+    "tipo": "git", 
+    "url": "https://github.com/Leon9726/angular-library.git"
+  }
+}
